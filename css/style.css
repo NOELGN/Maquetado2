@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html{
+    margin: 0px;
+    padding: 0px;
+    background: orange;
+}
+
+body{
+    height: 1000px;
+    width: 1200px;
+    background: greenyellow;
+    margin: auto;
+}
+
+header{
+    height: 150px;
+    width: 1200px;
+    background: aqua;
+}
+
+section#banner{
+    height: 100px;
+    width: 400px;
+    float: left;
+    background: aquamarine;
+}
+
+div#divtitulo{
+    height: 100px;
+    width: 400px;
+    float: left;
+}
+
+section#titulo{
+    height: 50px;
+    width: 400px;
+    background: yellow;
+}
+section#subtitulo{
+    height: 50px;
+    width: 400px;
+    background: magenta;
+}
+h1#h{
+    margin-top: 50px;
+}
+section#buscador{
+    height: 100px;
+    width: 400px;
+    float: left;
+    background: blue;
+}
+nav{
+    height: 50px;
+    width: 1200px;
+    text-align: center;
+    background: rebeccapurple;
+}
+main{
+    height: 800px;
+    width: 1200px;
+    background: purple;
+}
+div#contenido1{
+    height: 800px;
+    width: 1000px;
+    float: left;
+    background: red;
+}
+div#contenido2{
+    height: 800px;
+    width: 200px;
+    float: left;
+    background: salmon;
+}
+article#articulo1{
+    height: 200px;
+    width: 1000px;
+    background: azure;
+}
+section#con1{
+    height: 600px;
+    width: 250px;
+    float: left;
+    background: darkcyan;
+}
+section#con2{
+    height: 600px;
+    width: 250px;
+    float: left;
+    background: palevioletred;
+}
+section#con3{
+    height: 600px;
+    width: 250px;
+    float: left;
+    background: greenyellow;
+}
+section#con4{
+    height: 600px;
+    width: 250px;
+    float: left;
+    background: pink;
+}
+section#contenido2{
+    height: 900px;
+    width: 200px;
+}
+article#articulo2{
+    height: 200px;
+    width: 250px;
+}
+article#articulo3{
+    height: 600px;
+    width: 250px;
+}
+article#articulo41{
+    height: 300px;
+    width: 250px;
+}
+article#articulo4{
+    height: 150px;
+    width: 250;
+}
+
+article#articulo5{
+    height: 300px;
+    width: 250;
+}
+article#articulo55{
+    height: 150px;
+    width: 250px;
+}
+footer{
+    height: 50px;
+    width: 1200px;
+    text-align: center;
+}
+
+
